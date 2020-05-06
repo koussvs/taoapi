@@ -1,14 +1,4 @@
-# 淘宝客API演示
 
-> 淘宝客API演示，请扫下面二维码进行体验
-
-![demo](images/qrcode.png)
-
-## 涉及的淘宝客API
-+ [获取全网淘客商品](http://www.taobaokeapi.com/doc/taobao.tbk.sc.material.optional.html)
-+ [淘口令生成](http://www.taobaokeapi.com/doc/taobao.tbk.tpwd.create.html)
-+ [淘口令解析&转链](http://www.taobaokeapi.com/doc/taobao.tbk.sc.tpwd.convert.html)
-+ [所有订单查询](http://www.taobaokeapi.com/doc/taobao.tbk.sc.order.details.get.html)
 
 ## 使用技术
 
@@ -34,9 +24,7 @@ git clone https://github.com/luzhanbo/taobaokeapi.git
 }
 ```
 
-2. 修改 server/config.js 的配置
-+ 通过[https://api.taobaokeapi.com/?tbklogin=1](https://api.taobaokeapi.com/?tbklogin=1) 获取到的usertoken
-+ 淘宝联盟的一个推广位信息，包括 site_id 和 adzone_id 
+修改 server/config.js 的配置
 
 ### 运行命令
 
@@ -66,20 +54,7 @@ $ pm2 start
 
 ```
 
-## 界面演示
-
-> 淘宝客API演示-分类及商品详情页
-
-![分类](images/demo1.jpg)
-
-> 淘宝客API演示-商品列表页
-
-![商品列表1](images/demo2.jpg)
-
-## 更多功能关注《陆陆购》公众号体验
-
-![陆陆购](https://static.luzhanbo.cn/qrcode/qrcode_pc.jpg)
 
 ## 联系我 
-+ QQ：61315986
++ QQ：1558825891
 + 留言：淘宝客API 
