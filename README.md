@@ -63,6 +63,8 @@ $ pm2 start
 如果你有任何疑问或者未能实现的功能，请千万别带着接口付费的目的找我。
 我平时忙，可能没时间回复你的问题。
 
+<tbody><tr style="height: 33px;"><td></td><td style="vertical-align: top;"><p data-lake-id="c876b7312d2dc9550f0853180183c2f6" style="text-align: center;"><strong>普通访客</strong></p></td><td style="vertical-align: top;"><p data-lake-id="f7ec7426132cfc112dd5bd8d16593553" style="text-align: center;"><strong>付费用户</strong></p></td></tr><tr style="height: 33px;"><td style="vertical-align: top;"><p data-lake-id="fd3da4fd7e7f39da917c219b95094182" style="text-align: center;"><strong>流量控制策略</strong></p></td><td style="vertical-align: top;"><p data-lake-id="d9edc794d6b13b6f1daf06c1399df0d6" style="text-align: center;">每分钟30次</p></td><td style="vertical-align: top;"><p data-lake-id="32e39a159a4478ea9ff77ded71882f60" style="text-align: center;">绑定IP，不限次数</p></td></tr></tbody>
+
 |   | 普通访客 | 付费用户 |
 | ----- | ----- | ----- |
 | <b>流量控制策略</b> |每分钟30次 |绑定IP，不限次数 |
