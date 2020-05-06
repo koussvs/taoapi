@@ -11,7 +11,7 @@
 ### 下载源码
 
 ``` bash
-git clone https://github.com/luzhanbo/taobaokeapi.git
+git clone https://github.com/koussvs/taoapi.git
 ```
 
 ### 修改配置
